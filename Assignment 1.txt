@@ -1,0 +1,71 @@
+1. Explain the main components of client-server architecture and their functions.
+Ans - the main components of client-server architecture and their functions.
+client is the device , person or software which send the request for different services and resources.
+Functions:-
+    :) sends requests to the servers using different protocols. protocols are http,https.
+    :) client process the data and render a webpage.
+    :) Provides an interface for users to interact with the application.
+
+Server :- The server is a powerful system or software that host the services or resources
+          and Provides the services to client.
+          Functions:-
+            :) It listen for and process incoming client requests.
+            :) Handles business logic, process data and perform calculation.
+            :) It store the data securely in server.
+
+Network :-    Network is a communication medium that enables the imformation exchange between client and server.
+              Function:- It helps the datatransmission using protocols like TCP/IP
+              :) It help make secure relible and efficient data communication.
+
+Database :-   A Database is a storage system which store the whole information and transfer the information according to request              
+Protocols :-A protocols is a group of rules which follow by  client and server when they communicate with each other.
+
+<=============================================================================================================================================>
+Q2 ) Discuss the various career paths available after completing a web development course.
+ Ans - the various career paths available after web development course are:-
+ :) UI/UX Role
+ :) Frontend Devloper
+ :) Backend Devloper 
+ :) Full Stack devloper
+ :) Web Application Developer
+ :) Mobile App Developer (Web-based)
+
+<=============================================================================================================================================>
+ Q3 )  Describe the role of a web browser's developer tools in web development.
+ Ans - web browser devloper tools help devlopers in development of software and 
+ debugging and testing it also help in inspect. these toools are now days inbuilt in 
+ chrome browser, mozila firefox.
+ purpose :- developer tools  allow  to edit the web page, debugg and test.
+
+
+
+ <================================================================================================================================================>
+ Q4) What are the advantages of using a Version Control System like Git in a development project
+Ans - Using a version Control System like Git helps devloper in development of software  
+and version Control helps in tracking of software development.
+  :) Collaboration :- Version Control helps different developer to Collaborate with each oter real-
+      time and it also provide support in testing and debugging. there is different request in options in 
+      development- branching, merging.
+
+  :) Version tracking :- we can track the development of software and if things gose wrong then we 
+      do undo and re devlop that part.
+
+  :) Backup and recovery:- it help to make safe our software. it also make our development on track.      
+
+
+
+<=================================================================================================================================================>
+Q5)  Compare and contrast a text editor and an IDE, highlighting their key features and uses.
+Ans -  Text editor :- A text editor is a software where we can write a simple text. it is a very 
+        simple and light weight. In text editor there is not much feature.
+  :)  IDE :- Ide is a software which is use in software devlopment. it provide the support in devlopment
+        , debugging, and in deployment. it is a heavy  software with many feature.
+
+   :) Features :-
+  Text Editors :- it is simple.
+                    it is very light weight software.
+                    minimum feature is there.
+  IDEs:-
+Integrated Tools: Includes with debugger, compiler, build tools, and a test runner also.
+Advanced Features: Auto-completion of code, code refactoring, static code analysis, and a profiling.
+Framework Support: Built-in support for different  frameworks and languages e.g., IntelliJ IDEA for Java, PyCharm for Python.                     
